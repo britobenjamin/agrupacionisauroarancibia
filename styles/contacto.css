@@ -1,0 +1,22 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  font-family: 'Poppins', sans-serif;
+}
+
+.logo-navbar {
+  width: 50px;
+}
+
+.mapa-google {
+  width: 350px;
+  height: 600px;
+}
+
+main {
+  background-color: rgb(135, 126, 0);
+}
+
+header {
+  background-color: rgb(135, 126, 0);
+}
